@@ -1,0 +1,45 @@
+﻿emp_id;person_id;degree;mark
+EMP-007;P-008;супруга;golden_R2
+EMP-008;P-009;супруга;golden_R2
+EMP-009;P-010;ребёнок;golden_R2
+EMP-010;P-011;ребёнок;golden_R2
+EMP-011;P-012;родитель;golden_R2
+EMP-012;P-013;брат;golden_R2
+EMP-013;P-014;племянник;golden_R2
+EMP-014;P-015;сестра;golden_R2
+EMP-018;P-007;двоюродный брат;golden_GC01
+EMP-015;P-016;брат;golden_R3
+EMP-016;P-017;сестра;golden_R3
+EMP-017;P-018;двоюродный брат;golden_R3
+EMP-019;P-019;племянник;golden_R3
+EMP-007;P-061;дядя;noise
+EMP-008;P-061;тётя;noise
+EMP-009;P-062;двоюродный брат;noise
+EMP-010;P-062;двоюродная сестра;noise
+EMP-011;P-063;племянница;noise
+EMP-012;P-063;внук;noise
+EMP-013;P-064;внучка;noise
+EMP-014;P-064;дядя;noise
+EMP-015;P-065;тётя;noise
+EMP-016;P-065;двоюродный брат;noise
+EMP-017;P-066;двоюродная сестра;noise
+EMP-018;P-066;племянница;noise
+EMP-019;P-067;внук;noise
+EMP-020;P-067;внучка;noise
+EMP-021;P-068;дядя;noise
+EMP-022;P-068;тётя;noise
+EMP-023;P-069;двоюродный брат;noise
+EMP-024;P-069;двоюродная сестра;noise
+EMP-025;P-070;племянница;noise
+EMP-007;P-070;внук;noise
+EMP-008;P-071;внучка;noise
+EMP-009;P-071;дядя;noise
+EMP-010;P-072;тётя;noise
+EMP-011;P-072;двоюродный брат;noise
+EMP-012;P-073;двоюродная сестра;noise
+EMP-013;P-073;племянница;noise
+EMP-014;P-074;внук;noise
+EMP-015;P-074;внучка;noise
+EMP-016;P-075;дядя;noise
+EMP-017;P-075;тётя;noise
+EMP-018;P-075;двоюродный брат;noise
